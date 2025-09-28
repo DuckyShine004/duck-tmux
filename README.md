@@ -8,7 +8,7 @@ duck-time is my personal tmux configuration.
 - [Screenshots](#screenshots)
 
 ## Getting Started
-This section will guide you through installing duck-tmux.
+This section will guide you through installing **duck-tmux**.
 
 ### Requirements
 * [tmux](https://github.com/tmux/tmux) are you sure you have tmux installed already? :confused:
@@ -23,7 +23,7 @@ After you have met the requirements, proceed to follow the installation steps.
 mkdir -p $HOME/.config && cd $HOME/.config
 
 # Clone my repo
-git clone https://github.com/DuckyShine004/duck-zsh.git
+git clone https://github.com/DuckyShine004/duck-tmux.git
 ```
 
 2) After cloning the repository, create a symlink for the tmux configuration file:
